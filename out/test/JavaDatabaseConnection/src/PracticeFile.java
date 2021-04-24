@@ -22,7 +22,7 @@ public class PracticeFile {
 
                 if (c>a)
                     if(c>b)
-                    System.out.println("The greatest number is ");
+                    System.out.println("The greatest number is " +c );
 
 
     }
